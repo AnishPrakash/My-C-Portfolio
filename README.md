@@ -8,23 +8,23 @@ The repository is organized into categorical folders for easy navigation:
 
 📘 Core Topics \& Data Structures
 
-\* **1D ARRAY / 2D ARRAY**: Implementations of array operations and matrix problems.
+**1D ARRAY / 2D ARRAY**: Implementations of array operations and matrix problems.
 
-\* **STRINGS**: String manipulation algorithms and exercises.
+**STRINGS**: String manipulation algorithms and exercises.
 
-\* **Searching and Sorting**: Implementation of algorithms like Bubble Sort, Binary Search, etc.
+**Searching and Sorting**: Implementation of algorithms like Bubble Sort, Binary Search, etc.
 
 🎓 Academic Coursework
 
-\* **Assignments**: Solutions for Assignments 1, 2, and 3 covering foundational logic and problem-solving.
+**Assignments**: Solutions for Assignments 1, 2, and 3 covering foundational logic and problem-solving.
 
-\* **LAB 1 / LAB 2**: Practical lab session codes and experiments.
+**LAB 1 / LAB 2**: Practical lab session codes and experiments.
 
 🧠 Practice \& Self-Learning
 
-\* **Leetcode**: Solutions to LeetCode algorithmic challenges.
+**Leetcode**: Solutions to LeetCode algorithmic challenges.
 
-\* **Own Programs**: Personal projects and experiments.
+**Own Programs**: Personal projects and experiments.
 
 🚀 Getting Started
 
@@ -43,16 +43,16 @@ How to Run
 
 3\.  **Run the output:**
 
-&nbsp;   \* **Windows:** `output.exe`
-&nbsp;   \* **Mac/Linux:** `./output`
+&nbsp;   **Windows:** `output.exe`
+&nbsp;   **Mac/Linux:** `./output`
 
 👤 Author
 
 **Anish Prakash**
 
-\* **Student at**: Vellore Institute of Technology, Chennai
+**Student at**: Vellore Institute of Technology, Chennai
 
-\* **Focus**: C, C++, Data Structures, Algorithms
+**Focus**: C, C++, Data Structures, Algorithms
 
 ---
 
