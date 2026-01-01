@@ -34,10 +34,15 @@ To run these codes, you need a C++ compiler installed on your system (e.g., **Mi
 
 How to Run
 1\.  **Clone this repository:**
+
 &nbsp;   git clone \[https://github.com/AnishPrakash/My-C-Portfolio.git](https://github.com/AnishPrakash/My-C-Portfolio.git)
+
 2\.  **Compile a file:**
+
 &nbsp;   g++ filename.cpp -o output
+
 3\.  **Run the output:**
+
 &nbsp;   \* **Windows:** `output.exe`
 &nbsp;   \* **Mac/Linux:** `./output`
 
