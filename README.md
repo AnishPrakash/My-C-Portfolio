@@ -49,7 +49,9 @@ How to Run
 👤 Author
 
 **Anish Prakash**
+
 \* **Student at**: Vellore Institute of Technology, Chennai
+
 \* **Focus**: C, C++, Data Structures, Algorithms
 
 ---
