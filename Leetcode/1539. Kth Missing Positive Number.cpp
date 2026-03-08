@@ -1,0 +1,12 @@
+int findKthPositive(int* arr, int arrSize, int k) {
+    int low = 0, high = arrSize;
+    while (low < high) {
+        int mid = low + (high - low) / 2;
+        if (arr[mid] - (mid + 1) < k) {
+            low = mid + 1;
+        } else {
+            high = mid;
+        }
+    }
+    return low + k;
+}

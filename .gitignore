@@ -1,8 +1,0 @@
-# Ignore compiled files in any folder
-*.exe
-*.o
-*.out
-*.dll
-
-# Ignore IDE files
-.vscode/
